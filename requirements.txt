@@ -1,0 +1,27 @@
+# Core Dependencies for Travel Booking System
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-groq>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.20
+
+# Data Validation
+pydantic>=2.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# HTTP Requests for API Calls
+requests>=2.31.0
+httpx>=0.25.0
+
+# Retry Logic for API Calls
+tenacity>=8.2.3
+
+# Date/Time Handling
+python-dateutil>=2.8.2
+
+# Optional: For better development experience
+ipython>=8.0.0
+jupyter>=1.0.0
+
